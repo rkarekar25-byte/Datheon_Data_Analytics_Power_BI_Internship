@@ -55,6 +55,9 @@ The project uses a star schema consisting of:
 - Power BI Dashboard (.pbix)
 - Dashboard Screenshot (.png)
 
+## Dashboard Preview
+![Executive Sales and Profit Dashboard](Dashboard_Preview.png)
+
 ## Internship
 **Organisation:** Datheon  
 **Programme:** Data Analytics & Power BI Internship  
