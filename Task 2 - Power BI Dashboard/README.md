@@ -30,7 +30,7 @@ Superstore Retail Sales Dataset containing order, customer, product, sales, prof
 3. Profit by Region – Clustered Bar Chart
 4. Sales by Customer Segment – Donut Chart
 5. Sales by Ship Mode – Clustered Column Chart
-6. Profit by Month (2014–2017) – Waterfall Chart
+6. Profit by Month (2015–2018) – Waterfall Chart
 
 ### Interactive Filters
 - Year Slicer
